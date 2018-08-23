@@ -1,3 +1,0 @@
-* تحسينات بسيطة
-
-* Minor enhancements
