@@ -1,3 +1,3 @@
-* تحسينات بسيطة
+* تحسينات بسيطة في الإداء
 
-* Minor enhancements
+* Minor performance enhancements
