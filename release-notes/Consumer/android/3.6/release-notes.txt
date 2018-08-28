@@ -1,0 +1,3 @@
+تحسينات بسيطة في الإداء
+
+Minor performance enhancements
