@@ -1,0 +1,8 @@
+-يمكنك اﻵن الاستمتاع بتجربة بحث جديدة كليًا!
+-يمكنك اﻵن البحث في أكثر من موقع
+كما يمكنك تصفية البحث بالأسعار والمساحة وطرق الدفع ايضًا.
+-إضافة بعض التحسينات وحل بعض المشاكل لجعل تجربة المستخدم أفضل.
+
+Totally new search experience
+-you can now search with multiple locations, also you can filter listings with price, area and payment methods
+-fix some bugs, and adding some performance optimization to make the user better experience
