@@ -1,0 +1,8 @@
+- لكي نساعدك على تقديم خدمة أفضل لعملاءك، الأن يمكنك معرفة بعض المعلومات الإضافية عن عملاءك لكي نساعدك على إتمام عملية البيع.
+فقط ادخل على صفحة التقارير الموجودة في قسم الاتصالات.
+
+- إصلاح خطأ كان يؤدي لعدم ظهور رقم الهاتف
+
+- Now you can know more about your clients. Just o to the insights tab in the leads section.
+
+- Fixed: phone number what not available in the leads section
