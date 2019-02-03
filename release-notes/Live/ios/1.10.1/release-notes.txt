@@ -1,0 +1,14 @@
+-الآن يمكنك تصنيف الاتصالات الواردة لسهولة الرجوع إليها. ما عليك سوى الضعط على رز أضف تصنيفا وسوف تستطيع تنظيم اتصالاتك بشكل أفضل. هذه الخاصية سوف تصبح متاحة تدريجيا لجميع العملاء
+- لكي نساعدك على تقديم خدمة أفضل لعملاءك، الأن يمكنك معرفة بعض المعلومات الإضافية عن عملاءك لكي نساعدك على إتمام عملية البيع.
+فقط ادخل على صفحة التقارير الموجودة في قسم الاتصالات.
+
+إصلاح بعض الأخطاء:
+-إصلاح خطأ يؤدي أن رقم الهاتف خطأ
+-إصلاح خطأ أدى إلي عدم ظهور اسم الإعلان في الاتصالات
+
+- Now you can assign a label to your leads for easier leads managing. All you have is to press add label button and you're good to go. This feature will be available gradually for all users.
+- Now you can know more about your clients. Just o to the insights tab in the leads section.
+
+Fix some issues:
+- Wrong phone number in leads
+- Missing listings name in leads
